@@ -1,0 +1,30 @@
+{
+  "businessSales": {
+    "businessName": "Tech Shop",
+    "sales": {
+      "dailySales": "$10,000",
+      "weeklySales": "$50,000",
+      "yearlySales": "$100,000",
+      "totalSales": "$1,000,000"
+    },
+    "products": [
+      {
+        "name": "Google Home",
+        "totalSold": "500",
+        "pricePerItem": "$50"
+      },
+
+      {
+        "name": "Baby Yoda Pop Socket",
+        "totalSold": "1000",
+        "pricePerItem": "$10"
+      },
+
+      {
+        "name": "Digital Clock",
+        "totalSold": "10",
+        "pricePerItem": "$70"
+      }
+    ]
+  }
+}

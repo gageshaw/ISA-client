@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Tech Shop",
+    "owner": "Sally Smith",
+    "established": "2020",
+    "description": "A simple tech shop",
+    "location": {
+      "streetAddress": "425 Senior Project",
+      "city": "Seattle",
+      "state": "WA",
+      "zipcode": "1030"
+    },
+    "employeeAmount": "2",
+    "employees": [
+      {
+        "name": "Bob Burgers",
+        "age": "19",
+        "jobTitle": "server",
+        "employeeID": "12345678",
+        "payRate": "$10/hr",
+        "employeeStatus": "Part-Time",
+        "appointments": {
+          "appointmentCount": "2",
+          "events": [
+            {
+              "title": "Vacation",
+              "startTime": "2020-12-01T00:00",
+              "endTime": "2021-01-01T00:00"
+            },
+            {
+              "title": "Work",
+              "startTime": "2021-01-02T12:00",
+              "endTime": "2021-01-02T5:00"
+            }
+          ]
+        }
+      },
+      {
+        "name": "Bobby Burgers",
+        "age": "21",
+        "jobTitle": "busser",
+        "employeeID": "12365678",
+        "payRate": "salary",
+        "employeeStatus": "Full-Time",
+        "appointments": {
+          "appointmentCount": "1",
+          "events": [
+            {
+              "title": "Work",
+              "startTime": "2021-01-02T12:00",
+              "endTime": "2021-01-02T5:00"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
