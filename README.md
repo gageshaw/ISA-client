@@ -1,3 +1,7 @@
+PLEASE NOTE:
+All client secrets have been removed from the code, if this app is to be started, Firebase secrets must be re-incorporated.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
